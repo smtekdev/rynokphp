@@ -1,0 +1,46 @@
+Rynokbay Backend: 
+
+1- Login & Registration. 
+2- Redirect to login for admin/vendor/user.
+3- User add to cart and show this cart at admin pannel.
+4- User confirm order with details and show this order at Admin pannel.
+
+10-May-2023
+User Dashboard Image change. 
+
+11-May-2023
+6- Order show from backend at user Dashboard.
+7- Cancel Order from user dashboard. 
+8- 
+
+Remain: 
+Vendor registration need admin approval. 
+Vendor able to submit new product. 
+Vendor dashboar where all product will show. 
+User Dashboard where all order wills show.
+
+
+Required Functions: 
+1- Multi User authentication and authorization
+2- Product management
+3- Order management
+4- Rating and review system
+5- Shipping and logistics
+6- Reporting and analytics
+7- Customer support
+ 
+
+
+
+
+5- User Dashboard (User Profile and Order Management). 
+
+
+
+
+Need to work for 
+1- Image shall show at front end for product which user added in the cart. 
+2- forget password. 
+3- Due of form nested inside form that for confirm order button not working. 
+
+
